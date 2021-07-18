@@ -1,22 +1,22 @@
-<a href="https://www.instagram.com/ramadh20?r=nametag"><img src="https://images.cooltext.com/5537105.png" width="320" height="211" alt="  RAM-UBOT" /></a>
+<a href="https://www.instagram.com/mondar111?r=nametag">
 
 <p align="center">
-  <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
+  <a href="https://github.com/mondar111/UBOT/fork">
     <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/ramadhani892/RAM-UBOT">
-    <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
+  <a href="https://github.com/mondar111/UBOT">
+    <img src="https://img.shields.io/github/stars/mondar111/UBOT?style=social">
   </a>
 </p>  
 
-![VIEWS](https://komarev.com/ghpvc/?username=ramadhani892)
+![VIEWS](https://komarev.com/ghpvc/?username=mondarajedah)
 
-<a href="https://t.me/ramubotspam"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
+<a href="https://t.me/mondarubot"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
 ## PEMILIK REPO
-* **Landak** 🦔
-[<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/maafgausahsokap)
+* **Mondar** 
+[<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/mondarajedah)
 
   
   
@@ -32,10 +32,10 @@
 
 ## Penjelasan:
 * **Repo Nya toxic, Gajelas pokoknya mah.** 
-[<img src="https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg">](https://t.me/ootspambott)
+[<img src="https://telegra.ph/file/1bb535d67904320923847.jpg">](https://t.me/ootspambott)
 
 
-<h3 align="center">REPO RAM UBOT DIBUAT KARNA YAA MEMANG PENGEN DIBUAT WKWKWK.</h3>
+<h3 align="center">REPO MON UBOT DIBUAT KARNA YAA MEMANG PENGEN DIBUAT WKWKWK.</h3>
 <p align="center">&nbsp;</p>
 
 ### <a href="https://t.me/ootspambot"><img src="https://img.shields.io/badge/GROUP%20SPAM%20RAM%20UBOT-blue?style=flat&logo=Telegram" width="250" height="40.100" />
@@ -45,14 +45,14 @@
 
 
 * **VIDEO TUTORIAL DEPLOY!** 🔧
-[<img src="https://media.giphy.com/media/XD4BoRtenzE1eTIHzZ/giphy.gif">](https://t.me/UserbotChannel/36)
+[<img src="https://media.giphy.com/media/XD4BoRtenzE1eTIHzZ/giphy.gif">](https://t.me/FMAILYNVN/36)
 
 ### AMBIL STRING DI BAWAH INI:
 
 ##
-[![RAM-UBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@ramadhani892/RAM-UBOT-STRING)
+[![MOM-UBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@ramadhani892/RAM-UBOT-STRING)
 ##
-<a href="https://heroku.com/deploy?template=https://github.com/ramadhani892/RAM-UBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20RAM%20UBOT%20DI%20HEROKU-red?style=flat&logo=Heroku" width="325" height="50.100" />
+<a href="https://heroku.com/deploy?template=https://github.com/mondar111/UBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20MOM%20UBOT%20DI%20HEROKU-red?style=flat&logo=Heroku" width="325" height="50.100" />
 
 <br>
 </p>
