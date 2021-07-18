@@ -1,7 +1,7 @@
 {
-  "name": "RAM-UBOT",
-  "description": "[RAM-UBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg",
+  "name": "MON-UBOT",
+  "description": "[MON-UBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "logo": "https://telegra.ph/file/1bb535d67904320923847.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ramadhani892/RAM-UBOT",
-  "telegram": "https://t.me/Ramadhaniiiiiii1",
-  "success_url": "https://t.me/teman_random",
+  "repository": "https://github.com/mondar111/UBOT",
+  "telegram": "https://t.me/mondarajedah",
+  "success_url": "https://t.me/FAMILYNIRVANA",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -24,11 +24,11 @@
     },
     "ALIVE_LOGO": {
       "description": "BUAT ALIVE LOGO MU SENDIRI.",
-      "value": "https://telegra.ph/file/e590ad501ad8981fb4684.jpg",
+      "value": "https://telegra.ph/file/1bb535d67904320923847.jpg",
       "required": true
      },
      "STRING_SESSION": {
-      "description": "Ambil String Session di @ramubotspam dengan cara ketik #string.",
+      "description": "Ambil String Session di @MONDARUBOT dengan cara ketik #string.",
       "required": true
     },
     "HEROKU_APP_NAME": {
@@ -46,8 +46,8 @@
       "required": true
     },
     "BOTLOG_CHATID": {
-      "description": "Masuk @ootspambot atau Buatlah sebuah grup private/public masukan @goku_isbot lalu ketik /id, Salin dan hapus id dibawah ini, Lalu tempel.",
-      "value": "-1001122897608",
+      "description": "Masuk @MONDSRUBOT atau Buatlah sebuah grup private/public masukan @goku_isbot lalu ketik /id, Salin dan hapus id dibawah ini, Lalu tempel.",
+      "value": "-1001582398142",
       "required": true
     },
     "COUNTRY": {
@@ -90,8 +90,8 @@
       "required": false
     },
     "G_BAN_LOGGER_GROUP": {
-      "description": "Masuk @ootspambot Atau Buatlah Sebuah Grup Private/Public Lalu Masukkan @goku_isbot Lalu Ketik /id, Salin dan hapus id dibawah ini lalu tempel.",
-      "value": "-1001122897608",
+      "description": "Masuk @mondarubot Atau Buatlah Sebuah Grup Private/Public Lalu Masukkan @goku_isbot Lalu Ketik /id, Salin dan hapus id dibawah ini lalu tempel.",
+      "value": "-1001582398142",
       "required": false
     },
     "LOGSPAMMER": {
