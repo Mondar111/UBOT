@@ -175,10 +175,10 @@ ANTI_SPAMBOT_SHOUT = sb(os.environ.get("ANTI_SPAMBOT_SHOUT", "False"))
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", None)
 
 # Untuk Perintah .rambot (alive)
-RAM_TEKS_KOSTUM = os.environ.get("RAM_TEKS_KOSTUM") or "ㅤ"
+RAM_TEKS_KOSTUM = os.environ.get("RAM_TEKS_KOSTUM") or "⛩️𝑴𝑶𝑵-𝑼𝑺𝑬𝑹𝑩𝑶𝑻⛩️"
 
 # Untuk Melihat Repo
-REPO_NAME = os.environ.get("REPO_NAME") or "⛩️👹 𝑴𝑶𝑵-𝑼𝑺𝑬𝑹𝑩𝑶𝑻 👹⛩️"
+REPO_NAME = os.environ.get("REPO_NAME") or "⛩️𝑴𝑶𝑵-𝑼𝑺𝑬𝑹𝑩𝑶𝑻⛩️"
 
 # Default .alive Name
 ALIVE_NAME = os.environ.get("ALIVE_NAME", None)
@@ -197,7 +197,7 @@ ZIP_DOWNLOAD_DIRECTORY = os.environ.get("ZIP_DOWNLOAD_DIRECTORY", "./zips")
 BITLY_TOKEN = os.environ.get("BITLY_TOKEN", None)
 
 # Bot Name
-TERM_ALIAS = os.environ.get("TERM_ALIAS", "MON-UBOT")
+TERM_ALIAS = os.environ.get("TERM_ALIAS", "𝑴𝑶𝑵-𝑼𝑺𝑬𝑹𝑩𝑶𝑻")
 
 # Bot Version
 BOT_VER = os.environ.get("BOT_VER", "7.0")
@@ -275,7 +275,7 @@ QUOTES_API_TOKEN = os.environ.get("QUOTES_API_TOKEN", None)
 
 # Defaul botlog msg
 BOTLOG_MSG = os.environ.get(
-    "BOTLOG_MSG") or "```║DAH NGEWEK YA SAYANG!!👹👹║\n\n▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\nJika Tidak Bisa Di .ping\nSilahkan Anda\nCek viewlogs\nPada heroku Anda.\n▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰```"
+    "BOTLOG_MSG") or "```║DAH NGEWEK YA SAYANG!!🧑‍💻║```"
 
 # Deezloader
 DEEZER_ARL_TOKEN = os.environ.get("DEEZER_ARL_TOKEN", None)
@@ -564,7 +564,7 @@ with bot:
                 # https://t.me/TelethonChat/115200
                 await event.edit(buttons=buttons)
             else:
-                reply_pop_up_alert = f"WOI NGENTOT!! JANGAN PAKE PUNYA {DEFAULTUSER} DONG BABI."
+                reply_pop_up_alert = f"YAA MULUNG!! JANGAN PAKE PUNYA {DEFAULTUSER} DONG MULUNG."
                 await event.answer(reply_pop_up_alert, cache_time=0, alert=True)
 
 
