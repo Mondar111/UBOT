@@ -2,9 +2,9 @@
 
 on:
   push:
-    branches: [ MON UBOT ]
+    branches: [ RAM-UBOT ]
   pull_request:
-    branches: [ MON UBOT ]
+    branches: [ RAM-UBOT ]
 
 jobs:
   build:
@@ -34,4 +34,4 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
-[![Python package](https://github.com/mondar111/UBOT/actions/workflows/python-package.yml/badge.svg?branch=UBOT&event=workflow_dispatch)](https://github.com/mondar111/UBOT/actions/workflows/python-package.yml)
+[![Python package](https://github.com/ramadhani892/RAM-UBOT/actions/workflows/python-package.yml/badge.svg?branch=UBOT&event=workflow_dispatch)](https://github.com/ramadhani892/RAM-UBOT/actions/workflows/python-package.yml)
