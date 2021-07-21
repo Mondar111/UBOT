@@ -1,8 +1,8 @@
 # Thanks Full To Team Ultroid
-# Ported By Vcky @VckyouuBitch + @MaafGausahSokap
+# Ported By Vcky @mon-ubot + @mondarajedah
 # Copyright (c) 2021 Geez - Projects
 # Geez - Projects https://github.com/Vckyou/Geez-UserBot
-# RAM - UBOT https://github.com/ramadhani892/RAM-UBOT
+# MOM- UBOT https://github.com/mondar111/UBOT
 # Ini Belum Ke Fix Ya Bg :')
 # Ambil aja gapapa tp Gaguna kaya hidup lu Woakkakaka
 
@@ -42,7 +42,7 @@ async def _(rambot):
     new_rights = ChatAdminRights(invite_users=True)
     try:
         await rambot.client(startvc(rambot.chat_id))
-        await rambot.edit("`OBROLAN SUARA DIMULAI, YANG ONCAM LO NGENTOT...`")
+        await rambot.edit("`OBROLAN SUARA DIMULAI, MARIKITA CARI BUAT NGEWEK...`")
     except Exception as ex:
         await rambot.edit(f"`{str(ex)}`")
 
