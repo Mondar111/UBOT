@@ -2,7 +2,7 @@
 # Licensed under the Raphielscape Public License, Version 1.d (the "License");
 # you may not use this file except in compliance with the License.
 # Credits @keselekpermen69 / @Ultroid / @MON-UBOT
-# Ported @mondarajedah / JANGAN DI APUS BABI
+# Ported @mondarajedah / JANGAN DI APUS NGENTOT
 """Userbot initialization."""
 
 import os
@@ -108,9 +108,9 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", None)
 # Custom (forked) repo URL for updater.
 UPSTREAM_REPO_URL = os.environ.get(
     "UPSTREAM_REPO_URL",
-    "https://github.com/ramadhani892/RAM-UBOT")
+    "https://github.com/mondar111/UBOT")
 UPSTREAM_REPO_BRANCH = os.environ.get(
-    "UPSTREAM_REPO_BRANCH", "RAM-UBOT")
+    "UPSTREAM_REPO_BRANCH", "MON-UBOT")
 
 # Console verbose logging
 CONSOLE_LOGGER_VERBOSE = sb(os.environ.get("CONSOLE_LOGGER_VERBOSE", "False"))
@@ -217,7 +217,7 @@ HELP_LOGO = os.environ.get(
    "HELP_LOGO") or "https://telegra.ph/file/1bb535d67904320923847.jpg"
 
 # Default .alive Instagram
-IG_ALIVE = os.environ.get("IG_ALIVE") or "instagram.com/ramadh20"
+IG_ALIVE = os.environ.get("IG_ALIVE") or "instagram.com/mondar111"
 
 # Default emoji help
 EMOJI_HELP = os.environ.get("EMOJI_HELP") or "⛩️"
@@ -574,7 +574,7 @@ with bot:
             )
         )
         async def on_plug_in_callback_query_handler(event):
-            if event.query.user_id == uid:  # @Ram-ubot
+            if event.query.user_id == uid:  # @mon-ubot
                 # https://t.me/TelethonChat/115200
                 await event.edit(
                     file=ramlogo,
@@ -610,7 +610,7 @@ with bot:
                 # https://t.me/TelethonChat/115200
                 await event.edit(buttons=buttons)
             else:
-                reply_pop_up_alert = f"WOI NGENTOT!! JANGAN PAKE PUNYA {DEFAULTUSER} DONG BABI."
+                reply_pop_up_alert = f"YAA MULUNG!! JANGAN PAKE PUNYA {DEFAULTUSER} DONG MULUNG."
                 await event.answer(reply_pop_up_alert, cache_time=0, alert=True)
 
 
@@ -642,7 +642,7 @@ with bot:
                     )
                 )
             else:
-                reply_pop_up_alert = f"WOI SAYANG!! JANGAN PAKE PUNYA {DEFAULTUSER} DONG SAYANG."
+                reply_pop_up_alert = f"YAA MULUNG!! JANGAN PAKE PUNYA {DEFAULTUSER} DONG MULUNG."
 
             await event.answer(reply_pop_up_alert, cache_time=0, alert=True)
 
