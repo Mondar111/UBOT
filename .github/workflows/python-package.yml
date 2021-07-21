@@ -2,9 +2,9 @@
 
 on:
   push:
-    branches: [ UBOT ]
+    branches: [ MON UBOT ]
   pull_request:
-    branches: [ UBOT ]
+    branches: [ MON UBOT ]
 
 jobs:
   build:
