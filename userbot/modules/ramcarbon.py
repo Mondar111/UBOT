@@ -79,8 +79,8 @@ async def carbon_api(e):
     await e.client.send_file(
         e.chat_id,
         file,
-        caption="Created by [ラマダニ。](https://t.me/maafgausahsokap/)\
-        \nGroup [SPAM BOT](https://t.me/ootspambot/)",
+        caption="Created by [mondar](https://t.me/mondarajedah/)\
+        \nGroup [SPAM BOT](https://t.me/mondarubot/)",
         force_document=True,
         reply_to=e.message.reply_to_msg_id,
     )
@@ -145,8 +145,8 @@ async def carbon_api(e):
     await e.client.send_file(
         e.chat_id,
         file,
-        caption="created by [ラマダニ。](https://t.me/maafgausahsokap/)\
-        \nGroup Support [Dawn Labs](https://t.me/ootspambot/)",
+        caption="created by [mondar](https://t.me/mondarajedah/)\
+        \nGroup Support [Dawn Labs](https://t.me/mondarubot/)",
         force_document=True,
         reply_to=e.message.reply_to_msg_id,
     )
@@ -211,8 +211,8 @@ async def carbon_api(e):
     await e.client.send_file(
         e.chat_id,
         file,
-        caption="Created By [ラマダニ。](https://t.me/maafgausahsokap/)\
-        \nGroup Support [Spam](https://t.me/ootspambot/)",
+        caption="Created By [mondar](https://t.me/mondarubot/)\
+        \nGroup Support [Spam](https://t.me/mondarubot/)",
         force_document=True,
         reply_to=e.message.reply_to_msg_id,
     )
@@ -277,8 +277,8 @@ async def carbon_api(e):
     await e.client.send_file(
         e.chat_id,
         file,
-        caption="Created by [ラマダニ。](https://t.me/maafgausahsokap/),\
-        \nGroup Support [Group Spam](https://t.me/ootspambot)",
+        caption="Created by [mondar](https://t.me/mondarajedah/),\
+        \nGroup Support [Group Spam](https://t.me/mondarubot)",
         force_document=True,
         reply_to=e.message.reply_to_msg_id,
     )
@@ -343,8 +343,8 @@ async def carbon_api(e):
     await e.client.send_file(
         e.chat_id,
         file,
-        caption="Created by [ラマダニ。](https://t.me/maafgausahsokap/),\
-        \nGroup Support [Spam](https://t.me/ootspambot/)",
+        caption="Created by [MONDAR](https://t.me/MONDARAJEDAH/),\
+        \nGroup Support [Spam](https://t.me/MONDARUBOT/)",
         force_document=True,
         reply_to=e.message.reply_to_msg_id,
     )
