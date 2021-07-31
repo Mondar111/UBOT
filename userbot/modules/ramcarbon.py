@@ -79,7 +79,7 @@ async def carbon_api(e):
     await e.client.send_file(
         e.chat_id,
         file,
-        caption="Created by [mondar](https://t.me/mondarajedah/)\
+        caption="Created by [monboy](https://t.me/monajedah/)\
         \nGroup [SPAM BOT](https://t.me/mondarubot/)",
         force_document=True,
         reply_to=e.message.reply_to_msg_id,
@@ -145,7 +145,7 @@ async def carbon_api(e):
     await e.client.send_file(
         e.chat_id,
         file,
-        caption="created by [mondar](https://t.me/mondarajedah/)\
+        caption="created by [monboy](https://t.me/monajedah/)\
         \nGroup Support [Dawn Labs](https://t.me/mondarubot/)",
         force_document=True,
         reply_to=e.message.reply_to_msg_id,
@@ -211,7 +211,7 @@ async def carbon_api(e):
     await e.client.send_file(
         e.chat_id,
         file,
-        caption="Created By [mondar](https://t.me/mondarubot/)\
+        caption="Created By [monboy](https://t.me/monajadah/)\
         \nGroup Support [Spam](https://t.me/mondarubot/)",
         force_document=True,
         reply_to=e.message.reply_to_msg_id,
@@ -277,7 +277,7 @@ async def carbon_api(e):
     await e.client.send_file(
         e.chat_id,
         file,
-        caption="Created by [mondar](https://t.me/mondarajedah/),\
+        caption="Created by [monboy](https://t.me/monajedah/),\
         \nGroup Support [Group Spam](https://t.me/mondarubot)",
         force_document=True,
         reply_to=e.message.reply_to_msg_id,
@@ -343,7 +343,7 @@ async def carbon_api(e):
     await e.client.send_file(
         e.chat_id,
         file,
-        caption="Created by [MONDAR](https://t.me/MONDARAJEDAH/),\
+        caption="Created by [MONBOY](https://t.me/MONAJEDAH/),\
         \nGroup Support [Spam](https://t.me/MONDARUBOT/)",
         force_document=True,
         reply_to=e.message.reply_to_msg_id,
