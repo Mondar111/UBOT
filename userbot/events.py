@@ -98,7 +98,7 @@ def register(**args):
                     date = strftime("%Y-%m-%d %H:%M:%S", gmtime())
 
                     text = "**MON-UBOT ERROR**\n"
-                    link = "Silahkan chat: @MONDARAJEDAH"
+                    link = "Silahkan chat: @MONAJEDAH"
                     text += "Untuk melaporkan kesalahan"
                     text += f"- tinggal teruskan pesan ini {link}.\n"
                     text += "MONDAR Siap Membantu Kamu\n"
