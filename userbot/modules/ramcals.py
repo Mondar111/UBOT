@@ -1,5 +1,5 @@
 # Thanks Full To Team Ultroid
-# Ported By Vcky @mon-ubot + @mondarajedah
+# Ported By Vcky @mon-ubot + @monajedah
 # Copyright (c) 2021 Geez - Projects
 # Geez - Projects https://github.com/Vckyou/Geez-UserBot
 # MOM- UBOT https://github.com/mondar111/UBOT
