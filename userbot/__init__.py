@@ -2,7 +2,7 @@
 # Licensed under the Raphielscape Public License, Version 1.d (the "License");
 # you may not use this file except in compliance with the License.
 # Credits @keselekpermen69 / @Ultroid / @MON-UBOT
-# Ported @mondarajedah / JANGAN DI APUS NGENTOT
+# Ported @monajedah / JANGAN DI APUS NGENTOT
 """Userbot initialization."""
 
 import os
@@ -224,11 +224,11 @@ EMOJI_HELP = os.environ.get("EMOJI_HELP") or "⛩️"
 
 # Default .alive Group
 GROUP_LINK = os.environ.get(
-    "GROUP_LINK") or "t.me/familynirvana"
+    "GROUP_LINK") or "t.me/siniajaloh"
 
 # Default .repo Bot
 OWNER_BOT = os.environ.get(
-    "OWNER_BOT") or "t.me/MONDARAJEDAH"
+    "OWNER_BOT") or "t.me/MONAJEDAH"
 
 
 # Last.fm Module
@@ -399,7 +399,7 @@ ISAFK = False
 AFKREASON = None
 ZALG_LIST = {}
 
-#Import Userbot - Ported by @MONDARAJEDAH
+#Import Userbot - Ported by @MONAJEDAH
 from userbot import (
     ALIVE_NAME
 )
@@ -494,9 +494,9 @@ with bot:
                              Button.url(f"{EMOJI_HELP} 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 {EMOJI_HELP}",
                                         "t.me/familynvn"),
                              Button.url(f"{EMOJI_HELP} 𝗚𝗥𝗢𝗨𝗣 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 {EMOJI_HELP}",
-                                        "t.me/familynirvana")],
+                                        "t.me/siniajaloh")],
                              [Button.url("👤 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 👤",
-                                        "t.me/mondarajedah")],
+                                        "t.me/monajedah")],
                     ]
                 )
 
@@ -584,7 +584,7 @@ with bot:
                             Button.url(f"{REPO_NAME}",
                                        "t.me/familynvn"),
                             Button.url(f"{EMOJI_HELP} SUPPORT {EMOJI_HELP} ", 
-                                       "t.me/familynirvana")],
+                                       "t.me/siniajaloh")],
                         [Button.url(f"{EMOJI_HELP} OWNER {EMOJI_HELP} ",
                                     f"{OWNER_BOT}"),
                             Button.url(f"{EMOJI_HELP} INSTAGRAM {EMOJI_HELP} ",
