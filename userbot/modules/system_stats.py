@@ -224,7 +224,7 @@ async def amireallyalive(alive):
     await get_readable_time((time.time() - StartTime))
     await alive.edit("`Perkenalan diri...`")
     await asyncio.sleep(1)
-    await alive.edit("💥")
+    await alive.edit("🧬")
     await asyncio.sleep(3)
     output = (
         f"**     ۩  ⬚⃝⃟    {REPO_NAME} ⬚⃝⃟     ۩ ** \n\n"
@@ -269,7 +269,7 @@ async def amireallyalive(alive):
     await get_readable_time((time.time() - StartTime))
     output = (
         f"**╭✠╼━━━━━━❖━━━━━━━✠╮**\n"
-        f"       **♕  ⛩️𝙈𝙊𝙉-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⛩️  ♕** \n"
+        f"       **♕  🥷𝙈𝙊𝙉-𝙐𝙎𝙀𝙍𝘽𝙊𝙏🥷  ♕** \n"
         f"**╰✠╼━━━━━━❖━━━━━━━✠╯**\n"
         f"❃ **Tuan**             ➥ `{DEFAULTUSER}` \n"
         f"❃ **Username**    ➥ `@{user.username}` \n"
@@ -304,13 +304,13 @@ async def amireallyalive(alive):
 async def amireallyalive(alive):
     user = await bot.get_me()
     await get_readable_time((time.time() - StartTime))
-    await alive.edit("`Perkenalan diri...💥`")
+    await alive.edit("`Perkenalan diri...🥷`")
     await asyncio.sleep(1)
-    await alive.edit("🛸")
+    await alive.edit("🧬")
     await asyncio.sleep(3)
     output = (
         f"**✠╼━━━━━━❖━━━━━━━✠ ** \n"
-        f"**          ⛩️𝙈𝙊𝙉-𝙐𝙎𝙀𝙍𝘽𝙊𝙏⛩️** \n"
+        f"**          🥷𝙈𝙊𝙉-𝙐𝙎𝙀𝙍𝘽𝙊𝙏🥷** \n"
         f"**✠╼━━━━━━❖━━━━━━━✠** \n"
         f"╭✠╼━━━━━━❖━━━━━━━✠╮ \n"
         f"┣|• `🤴 Majikan  :`{DEFAULTUSER} \n"
