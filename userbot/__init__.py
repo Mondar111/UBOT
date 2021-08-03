@@ -175,10 +175,10 @@ ANTI_SPAMBOT_SHOUT = sb(os.environ.get("ANTI_SPAMBOT_SHOUT", "False"))
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", None)
 
 # Untuk Perintah .rambot (alive)
-RAM_TEKS_KOSTUM = os.environ.get("RAM_TEKS_KOSTUM") or "⛩️𝑴𝑶𝑵-𝑼𝑺𝑬𝑹𝑩𝑶𝑻⛩️"
+RAM_TEKS_KOSTUM = os.environ.get("RAM_TEKS_KOSTUM") or "🥷𝑴𝑶𝑵-𝑼𝑺𝑬𝑹𝑩𝑶𝑻🥷"
 
 # Untuk Melihat Repo
-REPO_NAME = os.environ.get("REPO_NAME") or "⛩️𝑴𝑶𝑵-𝑼𝑺𝑬𝑹𝑩𝑶𝑻⛩️"
+REPO_NAME = os.environ.get("REPO_NAME") or "🥷𝑴𝑶𝑵-𝑼𝑺𝑬𝑹𝑩𝑶𝑻🥷"
 
 # Default .alive Name
 ALIVE_NAME = os.environ.get("ALIVE_NAME", None)
@@ -220,7 +220,7 @@ HELP_LOGO = os.environ.get(
 IG_ALIVE = os.environ.get("IG_ALIVE") or "instagram.com/mondar111"
 
 # Default emoji help
-EMOJI_HELP = os.environ.get("EMOJI_HELP") or "⛩️"
+EMOJI_HELP = os.environ.get("EMOJI_HELP") or "⚠️"
 
 # Default .alive Group
 GROUP_LINK = os.environ.get(
@@ -233,7 +233,7 @@ OWNER_BOT = os.environ.get(
 
 # Last.fm Module
 BIO_PREFIX = os.environ.get("BIO_PREFIX", None)
-DEFAULT_BIO = os.environ.get("DEFAULT_BIO") or "⛩️𝑴𝑶𝑵-𝑼𝑺𝑬𝑹𝑩𝑶𝑻⛩️"
+DEFAULT_BIO = os.environ.get("DEFAULT_BIO") or "🥷𝑴𝑶𝑵-𝑼𝑺𝑬𝑹𝑩𝑶𝑻🥷"
 
 LASTFM_API = os.environ.get("LASTFM_API", None)
 LASTFM_SECRET = os.environ.get("LASTFM_SECRET", None)
@@ -522,7 +522,7 @@ with bot:
                 result = builder.photo(
                     file=ramlogo,
                     link_preview=False,
-                    text=f"{REPO_NAME}\n\n𝗣𝗘𝗠𝗜𝗟𝗜𝗞 𝗕𝗢𝗧 : {DEFAULTUSER}\n\n💥 𝗩𝗘𝗥𝗦𝗜 𝗕𝗢𝗧 : `7.0`\n💥 𝗠𝗢𝗗𝗨𝗟𝗘𝗦 : `{len(plugins)}`\n\n💥 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 : [{DEFAULTUSER}]({OWNER_BOT}) ".format(
+                    text=f"{REPO_NAME}\n\n𝗣𝗘𝗠𝗜𝗟𝗜𝗞 𝗕𝗢𝗧 : {DEFAULTUSER}\n\n❇️ 𝗩𝗘𝗥𝗦𝗜 𝗕𝗢𝗧 : `7.0`\n❇️ 𝗠𝗢𝗗𝗨𝗟𝗘𝗦 : `{len(plugins)}`\n\n❇️ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 : [{DEFAULTUSER}]({OWNER_BOT}) ".format(
                         len(dugmeler),
                     ),
                     buttons=buttons,
@@ -543,7 +543,7 @@ with bot:
                                 f"{REPO_NAME}",
                                 "https://github.com/mondar111/UBOT"),
                             custom.Button.url(
-                                "Mondar111",
+                                "🥷MON🥷",
                                 f"{OWNER_BOT}")] 
                     ],
                     link_preview=False,
