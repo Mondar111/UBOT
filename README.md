@@ -15,7 +15,7 @@
 <a href="https://t.me/mondarubot"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
 ## PEMILIK REPO
-* **Mondar** 
+* **Mondar🥷** 
 [<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/mondarajedah)
 
   
@@ -32,7 +32,7 @@
 
 ## Penjelasan:
 * **Repo Nya toxic, Gajelas pokoknya mah.** 
-[<img src="https://telegra.ph/file/1bb535d67904320923847.jpg">](https://t.me/ootspambott)
+[<img src="https://telegra.ph/file/a07ea494a6321b347f3f6.jpg">](https://t.me/mondarubot)
 
 
 <h3 align="center">REPO MON UBOT DIBUAT KARNA YAA MEMANG PENGEN DIBUAT WKWKWK.</h3>
