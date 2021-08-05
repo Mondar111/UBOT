@@ -10,13 +10,13 @@
   </a>
 </p>  
 
-![VIEWS](https://komarev.com/ghpvc/?username=mondarajedah)
+![VIEWS](https://komarev.com/ghpvc/?username=monajedah)
 
 <a href="https://t.me/mondarubot"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
 ## PEMILIK REPO
 * **Mondar🥷** 
-[<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/mondarajedah)
+[<img src="https://media.giphy.com/media/o97Wl6qaoJytXcppUj/giphy.gif">](https://t.me/monajedah)
 
   
   
@@ -52,7 +52,7 @@
 ##
 [![MOM-UBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@ramadhani892/RAM-UBOT-STRING)
 ##
-<a href="https://heroku.com/deploy?template=https://github.com/mondar111/UBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20MOM%20UBOT%20DI%20HEROKU-red?style=flat&logo=Heroku" width="325" height="50.100" />
+<a href="https://heroku.com/deploy?template=https://github.com/mondar111/UBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20MON%20UBOT%20DI%20HEROKU-red?style=flat&logo=Heroku" width="325" height="50.100" />
 
 <br>
 </p>
