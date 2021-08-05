@@ -210,11 +210,11 @@ S_PACK_NAME = os.environ.get("S_PACK_NAME", None)
 
 # Default .alive Logo
 ALIVE_LOGO = os.environ.get(
-    "ALIVE_LOGO") or "https://telegra.ph/file/1bb535d67904320923847.jpg"
+    "ALIVE_LOGO") or "https://telegra.ph/file/a07ea494a6321b347f3f6.jpg"
 
 # Default .helpme logo
 HELP_LOGO = os.environ.get(
-   "HELP_LOGO") or "https://telegra.ph/file/1bb535d67904320923847.jpg"
+   "HELP_LOGO") or "https://telegra.ph/file/a07ea494a6321b347f3f6.jpg"
 
 # Default .alive Instagram
 IG_ALIVE = os.environ.get("IG_ALIVE") or "instagram.com/mondar111"
@@ -648,7 +648,7 @@ with bot:
 
         @tgbot.on(events.CallbackQuery(data=b"close"))
         async def close(event):
-            await event.edit("Menu di tutup!\nUntuk Melihat Menu, Silahkan Ketik `.rhelp`", buttons=Button.clear())
+            await event.edit("Menu di tutup!\nUntuk Melihat Menu, Silahkan Ketik `.mhelp`", buttons=Button.clear())
 
 
     except BaseException:
