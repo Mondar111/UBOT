@@ -1,7 +1,7 @@
 {
   "name": "MON-UBOT",
   "description": "[MON-UBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/1bb535d67904320923847.jpg",
+  "logo": "https://telegra.ph/file/a07ea494a6321b347f3f6.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -10,8 +10,8 @@
     "productivity"
   ],
   "repository": "https://github.com/mondar111/UBOT",
-  "telegram": "https://t.me/mondarajedah",
-  "success_url": "https://t.me/FAMILYNIRVANA",
+  "telegram": "https://t.me/monajedah",
+  "success_url": "https://t.me/siniajaloh",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -19,12 +19,12 @@
       "required": true
     },
     "API_HASH": {
-      "description": "Dapatkan Api Hash Di Web my.telegram.org.",
+      "description": "Dapatkan Api Hash Di @MONDARUBOT KETIK #api&hash /di Web my.telegram.org.",
       "required": true
     },
     "ALIVE_LOGO": {
       "description": "BUAT ALIVE LOGO MU SENDIRI.",
-      "value": "https://telegra.ph/file/1bb535d67904320923847.jpg",
+      "value": "https://telegra.ph/file/a07ea494a6321b347f3f6.jpg",
       "required": true
      },
      "STRING_SESSION": {
@@ -46,7 +46,7 @@
       "required": true
     },
     "BOTLOG_CHATID": {
-      "description": "Masuk @MONDSRUBOT atau Buatlah sebuah grup private/public masukan @goku_isbot lalu ketik /id, Salin dan hapus id dibawah ini, Lalu tempel.",
+      "description": "Masuk @MONDARUBOT atau Buatlah sebuah grup private/public masukan @goku_isbot lalu ketik /id, Salin dan hapus id dibawah ini, Lalu tempel.",
       "value": "-1001582398142",
       "required": true
     },
@@ -100,7 +100,7 @@
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "Untuk menampilkam mode tombol .rhelp, Ambil token di @BotFather",
+      "description": "Untuk menampilkam mode tombol .mhelp, Ambil token di @BotFather",
       "required": true
     },
     "BOT_USERNAME": {
